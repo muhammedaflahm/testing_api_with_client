@@ -1,0 +1,1202 @@
+[
+  {
+    "student_id": "1",
+    "name": "Alice Johnson",
+    "marks": {
+      "math": 85,
+      "science": 90,
+      "english": 78,
+      "history": 88,
+      "geography": 92
+    },
+    "total": 433
+  },
+  {
+    "student_id": "2",
+    "name": "Bob Smith",
+    "marks": {
+      "math": 70,
+      "science": 65,
+      "english": 80,
+      "history": 75,
+      "geography": 85
+    },
+    "total": 375
+  },
+  {
+    "student_id": "3",
+    "name": "Charlie Davis",
+    "marks": {
+      "math": 88,
+      "science": 82,
+      "english": 89,
+      "history": 90,
+      "geography": 66
+    },
+    "total": 415
+  },
+  {
+    "student_id": "4",
+    "name": "Diana Lee",
+    "marks": {
+      "math": 95,
+      "science": 94,
+      "english": 93,
+      "history": 92,
+      "geography": 91
+    },
+    "total": 465
+  },
+  {
+    "student_id": "5",
+    "name": "Edward Thomas",
+    "marks": {
+      "math": 50,
+      "science": 60,
+      "english": 70,
+      "history": 80,
+      "geography": 90
+    },
+    "total": 350
+  },
+  {
+    "student_id": "6",
+    "name": "Fiona Green",
+    "marks": {
+      "math": 77,
+      "science": 88,
+      "english": 99,
+      "history": 66,
+      "geography": 55
+    },
+    "total": 385
+  },
+  {
+    "student_id": "7",
+    "name": "George White",
+    "marks": {
+      "math": 92,
+      "science": 85,
+      "english": 87,
+      "history": 88,
+      "geography": 91
+    },
+    "total": 443
+  },
+  {
+    "student_id": "8",
+    "name": "Hannah Black",
+    "marks": {
+      "math": 61,
+      "science": 72,
+      "english": 83,
+      "history": 94,
+      "geography": 55
+    },
+    "total": 365
+  },
+  {
+    "student_id": "9",
+    "name": "Ian Brown",
+    "marks": {
+      "math": 80,
+      "science": 78,
+      "english": 81,
+      "history": 82,
+      "geography": 83
+    },
+    "total": 404
+  },
+  {
+    "student_id": "10",
+    "name": "Jane Miller",
+    "marks": {
+      "math": 90,
+      "science": 91,
+      "english": 92,
+      "history": 93,
+      "geography": 94
+    },
+    "total": 460
+  },
+  {
+    "student_id": "11",
+    "name": "Kyle Moore",
+    "marks": {
+      "math": 50,
+      "science": 55,
+      "english": 60,
+      "history": 65,
+      "geography": 70
+    },
+    "total": 300
+  },
+  {
+    "student_id": "12",
+    "name": "Laura Wilson",
+    "marks": {
+      "math": 75,
+      "science": 85,
+      "english": 95,
+      "history": 65,
+      "geography": 55
+    },
+    "total": 375
+  },
+  {
+    "student_id": "13",
+    "name": "Mark Harris",
+    "marks": {
+      "math": 88,
+      "science": 77,
+      "english": 66,
+      "history": 55,
+      "geography": 44
+    },
+    "total": 330
+  },
+  {
+    "student_id": "14",
+    "name": "Nancy Clark",
+    "marks": {
+      "math": 95,
+      "science": 94,
+      "english": 93,
+      "history": 92,
+      "geography": 91
+    },
+    "total": 465
+  },
+  {
+    "student_id": "15",
+    "name": "Oliver Walker",
+    "marks": {
+      "math": 85,
+      "science": 82,
+      "english": 79,
+      "history": 88,
+      "geography": 91
+    },
+    "total": 425
+  },
+  {
+    "student_id": "16",
+    "name": "Paula Young",
+    "marks": {
+      "math": 61,
+      "science": 72,
+      "english": 83,
+      "history": 94,
+      "geography": 65
+    },
+    "total": 375
+  },
+  {
+    "student_id": "17",
+    "name": "Quinn Adams",
+    "marks": {
+      "math": 90,
+      "science": 85,
+      "english": 87,
+      "history": 88,
+      "geography": 91
+    },
+    "total": 441
+  },
+  {
+    "student_id": "18",
+    "name": "Rachel Allen",
+    "marks": {
+      "math": 50,
+      "science": 60,
+      "english": 70,
+      "history": 80,
+      "geography": 90
+    },
+    "total": 350
+  },
+  {
+    "student_id": "19",
+    "name": "Sam Carter",
+    "marks": {
+      "math": 77,
+      "science": 88,
+      "english": 99,
+      "history": 66,
+      "geography": 55
+    },
+    "total": 385
+  },
+  {
+    "student_id": "20",
+    "name": "Tina Garcia",
+    "marks": {
+      "math": 95,
+      "science": 92,
+      "english": 90,
+      "history": 91,
+      "geography": 94
+    },
+    "total": 462
+  },
+  {
+    "student_id": "21",
+    "name": "Uma Sanchez",
+    "marks": {
+      "math": 50,
+      "science": 51,
+      "english": 52,
+      "history": 53,
+      "geography": 54
+    },
+    "total": 260
+  },
+  {
+    "student_id": "22",
+    "name": "Victor King",
+    "marks": {
+      "math": 65,
+      "science": 70,
+      "english": 75,
+      "history": 80,
+      "geography": 85
+    },
+    "total": 375
+  },
+  {
+    "student_id": "23",
+    "name": "Wendy Scott",
+    "marks": {
+      "math": 88,
+      "science": 89,
+      "english": 90,
+      "history": 91,
+      "geography": 92
+    },
+    "total": 450
+  },
+  {
+    "student_id": "24",
+    "name": "Xavier Bell",
+    "marks": {
+      "math": 40,
+      "science": 45,
+      "english": 50,
+      "history": 55,
+      "geography": 60
+    },
+    "total": 250
+  },
+  {
+    "student_id": "25",
+    "name": "Yvonne Perez",
+    "marks": {
+      "math": 82,
+      "science": 81,
+      "english": 83,
+      "history": 84,
+      "geography": 85
+    },
+    "total": 415
+  },
+  {
+    "student_id": "26",
+    "name": "Zachary Lopez",
+    "marks": {
+      "math": 75,
+      "science": 80,
+      "english": 85,
+      "history": 70,
+      "geography": 60
+    },
+    "total": 370
+  },
+  {
+    "student_id": "27",
+    "name": "Aaron Brooks",
+    "marks": {
+      "math": 88,
+      "science": 90,
+      "english": 92,
+      "history": 85,
+      "geography": 84
+    },
+    "total": 439
+  },
+  {
+    "student_id": "28",
+    "name": "Bianca Martinez",
+    "marks": {
+      "math": 65,
+      "science": 70,
+      "english": 75,
+      "history": 80,
+      "geography": 85
+    },
+    "total": 375
+  },
+  {
+    "student_id": "29",
+    "name": "Carlos Rivera",
+    "marks": {
+      "math": 92,
+      "science": 91,
+      "english": 93,
+      "history": 88,
+      "geography": 90
+    },
+    "total": 454
+  },
+  {
+    "student_id": "30",
+    "name": "Danielle Morgan",
+    "marks": {
+      "math": 58,
+      "science": 65,
+      "english": 72,
+      "history": 79,
+      "geography": 86
+    },
+    "total": 360
+  },
+  {
+    "student_id": "31",
+    "name": "Ethan Reed",
+    "marks": {
+      "math": 70,
+      "science": 75,
+      "english": 80,
+      "history": 85,
+      "geography": 90
+    },
+    "total": 400
+  },
+  {
+    "student_id": "32",
+    "name": "Felicity Ross",
+    "marks": {
+      "math": 88,
+      "science": 84,
+      "english": 80,
+      "history": 76,
+      "geography": 72
+    },
+    "total": 400
+  },
+  {
+    "student_id": "33",
+    "name": "Gavin Clark",
+    "marks": {
+      "math": 95,
+      "science": 94,
+      "english": 93,
+      "history": 92,
+      "geography": 91
+    },
+    "total": 465
+  },
+  {
+    "student_id": "34",
+    "name": "Holly Edwards",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 88,
+      "geography": 80
+    },
+    "total": 414
+  },
+  {
+    "student_id": "35",
+    "name": "Isaac Bennett",
+    "marks": {
+      "math": 62,
+      "science": 68,
+      "english": 74,
+      "history": 80,
+      "geography": 86
+    },
+    "total": 370
+  },
+  {
+    "student_id": "36",
+    "name": "Jasmine Phillips",
+    "marks": {
+      "math": 88,
+      "science": 84,
+      "english": 80,
+      "history": 76,
+      "geography": 72
+    },
+    "total": 400
+  },
+  {
+    "student_id": "37",
+    "name": "Kevin Bailey",
+    "marks": {
+      "math": 92,
+      "science": 93,
+      "english": 94,
+      "history": 95,
+      "geography": 96
+    },
+    "total": 470
+  },
+  {
+    "student_id": "38",
+    "name": "Luna Foster",
+    "marks": {
+      "math": 65,
+      "science": 70,
+      "english": 75,
+      "history": 80,
+      "geography": 85
+    },
+    "total": 375
+  },
+  {
+    "student_id": "39",
+    "name": "Mason Gray",
+    "marks": {
+      "math": 55,
+      "science": 65,
+      "english": 75,
+      "history": 85,
+      "geography": 95
+    },
+    "total": 375
+  },
+  {
+    "student_id": "40",
+    "name": "Nina Carter",
+    "marks": {
+      "math": 90,
+      "science": 88,
+      "english": 86,
+      "history": 84,
+      "geography": 82
+    },
+    "total": 430
+  },
+  {
+    "student_id": "41",
+    "name": "Omar Hughes",
+    "marks": {
+      "math": 88,
+      "science": 80,
+      "english": 72,
+      "history": 64,
+      "geography": 56
+    },
+    "total": 360
+  },
+  {
+    "student_id": "42",
+    "name": "Penny Collins",
+    "marks": {
+      "math": 95,
+      "science": 92,
+      "english": 89,
+      "history": 86,
+      "geography": 83
+    },
+    "total": 445
+  },
+  {
+    "student_id": "43",
+    "name": "Quincy Bryant",
+    "marks": {
+      "math": 70,
+      "science": 75,
+      "english": 80,
+      "history": 85,
+      "geography": 90
+    },
+    "total": 400
+  },
+  {
+    "student_id": "44",
+    "name": "Rachel Sanders",
+    "marks": {
+      "math": 82,
+      "science": 84,
+      "english": 86,
+      "history": 88,
+      "geography": 90
+    },
+    "total": 430
+  },
+  {
+    "student_id": "45",
+    "name": "Samuel Price",
+    "marks": {
+      "math": 90,
+      "science": 85,
+      "english": 80,
+      "history": 75,
+      "geography": 70
+    },
+    "total": 400
+  },
+  {
+    "student_id": "46",
+    "name": "Tiffany Russell",
+    "marks": {
+      "math": 65,
+      "science": 70,
+      "english": 75,
+      "history": 80,
+      "geography": 85
+    },
+    "total": 375
+  },
+  {
+    "student_id": "47",
+    "name": "Ulysses Walker",
+    "marks": {
+      "math": 88,
+      "science": 90,
+      "english": 92,
+      "history": 94,
+      "geography": 96
+    },
+    "total": 460
+  },
+  {
+    "student_id": "48",
+    "name": "Victoria Hall",
+    "marks": {
+      "math": 55,
+      "science": 65,
+      "english": 75,
+      "history": 85,
+      "geography": 95
+    },
+    "total": 375
+  },
+  {
+    "student_id": "49",
+    "name": "Wesley Butler",
+    "marks": {
+      "math": 92,
+      "science": 88,
+      "english": 84,
+      "history": 80,
+      "geography": 76
+    },
+    "total": 420
+  },
+  {
+    "student_id": "50",
+    "name": "Xena Bell",
+    "marks": {
+      "math": 75,
+      "science": 80,
+      "english": 85,
+      "history": 90,
+      "geography": 95
+    },
+    "total": 425
+  },
+  {
+    "student_id": "51",
+    "name": "Yusuf Barnes",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 85,
+      "history": 89,
+      "geography": 92
+    },
+    "total": 426
+  },
+  {
+    "student_id": "52",
+    "name": "Zara Evans",
+    "marks": {
+      "math": 85,
+      "science": 88,
+      "english": 91,
+      "history": 84,
+      "geography": 87
+    },
+    "total": 435
+  },
+  {
+    "student_id": "53",
+    "name": "Alan Fisher",
+    "marks": {
+      "math": 62,
+      "science": 66,
+      "english": 70,
+      "history": 74,
+      "geography": 78
+    },
+    "total": 350
+  },
+  {
+    "student_id": "54",
+    "name": "Bella Gill",
+    "marks": {
+      "math": 92,
+      "science": 94,
+      "english": 96,
+      "history": 89,
+      "geography": 88
+    },
+    "total": 459
+  },
+  {
+    "student_id": "55",
+    "name": "Cameron Hayes",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "56",
+    "name": "Dana Hughes",
+    "marks": {
+      "math": 60,
+      "science": 65,
+      "english": 70,
+      "history": 75,
+      "geography": 80
+    },
+    "total": 350
+  },
+  {
+    "student_id": "57",
+    "name": "Eli Jackson",
+    "marks": {
+      "math": 85,
+      "science": 83,
+      "english": 81,
+      "history": 79,
+      "geography": 77
+    },
+    "total": 405
+  },
+  {
+    "student_id": "58",
+    "name": "Faye Kelly",
+    "marks": {
+      "math": 89,
+      "science": 92,
+      "english": 94,
+      "history": 96,
+      "geography": 88
+    },
+    "total": 459
+  },
+  {
+    "student_id": "59",
+    "name": "Glen Lewis",
+    "marks": {
+      "math": 55,
+      "science": 65,
+      "english": 75,
+      "history": 85,
+      "geography": 95
+    },
+    "total": 375
+  },
+  {
+    "student_id": "60",
+    "name": "Holly Martinez",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "61",
+    "name": "Isaac Morgan",
+    "marks": {
+      "math": 90,
+      "science": 88,
+      "english": 86,
+      "history": 84,
+      "geography": 82
+    },
+    "total": 430
+  },
+  {
+    "student_id": "62",
+    "name": "Julia Nelson",
+    "marks": {
+      "math": 62,
+      "science": 68,
+      "english": 74,
+      "history": 80,
+      "geography": 86
+    },
+    "total": 370
+  },
+  {
+    "student_id": "63",
+    "name": "Kevin Owens",
+    "marks": {
+      "math": 88,
+      "science": 90,
+      "english": 92,
+      "history": 94,
+      "geography": 96
+    },
+    "total": 460
+  },
+  {
+    "student_id": "64",
+    "name": "Luna Perry",
+    "marks": {
+      "math": 55,
+      "science": 65,
+      "english": 75,
+      "history": 85,
+      "geography": 95
+    },
+    "total": 375
+  },
+  {
+    "student_id": "65",
+    "name": "Mason Quinn",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "66",
+    "name": "Nina Reed",
+    "marks": {
+      "math": 92,
+      "science": 94,
+      "english": 96,
+      "history": 98,
+      "geography": 90
+    },
+    "total": 470
+  },
+  {
+    "student_id": "67",
+    "name": "Oscar Ross",
+    "marks": {
+      "math": 75,
+      "science": 78,
+      "english": 81,
+      "history": 84,
+      "geography": 87
+    },
+    "total": 405
+  },
+  {
+    "student_id": "68",
+    "name": "Paula Scott",
+    "marks": {
+      "math": 88,
+      "science": 84,
+      "english": 80,
+      "history": 76,
+      "geography": 72
+    },
+    "total": 400
+  },
+  {
+    "student_id": "69",
+    "name": "Quincy Taylor",
+    "marks": {
+      "math": 60,
+      "science": 65,
+      "english": 70,
+      "history": 75,
+      "geography": 80
+    },
+    "total": 350
+  },
+  {
+    "student_id": "70",
+    "name": "Rachel Turner",
+    "marks": {
+      "math": 85,
+      "science": 88,
+      "english": 91,
+      "history": 84,
+      "geography": 87
+    },
+    "total": 435
+  },
+  {
+    "student_id": "71",
+    "name": "Samuel Walker",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "72",
+    "name": "Tina White",
+    "marks": {
+      "math": 92,
+      "science": 94,
+      "english": 96,
+      "history": 89,
+      "geography": 88
+    },
+    "total": 459
+  },
+  {
+    "student_id": "73",
+    "name": "Uma Young",
+    "marks": {
+      "math": 62,
+      "science": 68,
+      "english": 74,
+      "history": 80,
+      "geography": 86
+    },
+    "total": 370
+  },
+  {
+    "student_id": "74",
+    "name": "Victor Adams",
+    "marks": {
+      "math": 85,
+      "science": 83,
+      "english": 81,
+      "history": 79,
+      "geography": 77
+    },
+    "total": 405
+  },
+  {
+    "student_id": "75",
+    "name": "Wendy Brown",
+    "marks": {
+      "math": 88,
+      "science": 90,
+      "english": 92,
+      "history": 94,
+      "geography": 96
+    },
+    "total": 460
+  },
+  {
+    "student_id": "76",
+    "name": "Xavier Carter",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "77",
+    "name": "Yasmine Davis",
+    "marks": {
+      "math": 92,
+      "science": 94,
+      "english": 96,
+      "history": 89,
+      "geography": 88
+    },
+    "total": 459
+  },
+  {
+    "student_id": "78",
+    "name": "Zane Edwards",
+    "marks": {
+      "math": 55,
+      "science": 65,
+      "english": 75,
+      "history": 85,
+      "geography": 95
+    },
+    "total": 375
+  },
+  {
+    "student_id": "79",
+    "name": "Aaron Fisher",
+    "marks": {
+      "math": 88,
+      "science": 90,
+      "english": 92,
+      "history": 94,
+      "geography": 96
+    },
+    "total": 460
+  },
+  {
+    "student_id": "80",
+    "name": "Bella Gray",
+    "marks": {
+      "math": 62,
+      "science": 68,
+      "english": 74,
+      "history": 80,
+      "geography": 86
+    },
+    "total": 370
+  },
+  {
+    "student_id": "81",
+    "name": "Carlos Hayes",
+    "marks": {
+      "math": 85,
+      "science": 83,
+      "english": 81,
+      "history": 79,
+      "geography": 77
+    },
+    "total": 405
+  },
+  {
+    "student_id": "82",
+    "name": "Diana Jackson",
+    "marks": {
+      "math": 90,
+      "science": 88,
+      "english": 86,
+      "history": 84,
+      "geography": 82
+    },
+    "total": 430
+  },
+  {
+    "student_id": "83",
+    "name": "Elliott Kelly",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "84",
+    "name": "Faith Lewis",
+    "marks": {
+      "math": 92,
+      "science": 94,
+      "english": 96,
+      "history": 89,
+      "geography": 88
+    },
+    "total": 459
+  },
+  {
+    "student_id": "85",
+    "name": "George Morgan",
+    "marks": {
+      "math": 60,
+      "science": 65,
+      "english": 70,
+      "history": 75,
+      "geography": 80
+    },
+    "total": 350
+  },
+  {
+    "student_id": "86",
+    "name": "Holly Nelson",
+    "marks": {
+      "math": 88,
+      "science": 84,
+      "english": 80,
+      "history": 76,
+      "geography": 72
+    },
+    "total": 400
+  },
+  {
+    "student_id": "87",
+    "name": "Isaac Owens",
+    "marks": {
+      "math": 85,
+      "science": 88,
+      "english": 91,
+      "history": 84,
+      "geography": 87
+    },
+    "total": 435
+  },
+  {
+    "student_id": "88",
+    "name": "Julia Perry",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "89",
+    "name": "Kevin Quinn",
+    "marks": {
+      "math": 92,
+      "science": 94,
+      "english": 96,
+      "history": 98,
+      "geography": 90
+    },
+    "total": 470
+  },
+  {
+    "student_id": "90",
+    "name": "Luna Reed",
+    "marks": {
+      "math": 55,
+      "science": 65,
+      "english": 75,
+      "history": 85,
+      "geography": 95
+    },
+    "total": 375
+  },
+  {
+    "student_id": "91",
+    "name": "Mason Ross",
+    "marks": {
+      "math": 88,
+      "science": 90,
+      "english": 92,
+      "history": 94,
+      "geography": 96
+    },
+    "total": 460
+  },
+  {
+    "student_id": "92",
+    "name": "Nina Scott",
+    "marks": {
+      "math": 85,
+      "science": 83,
+      "english": 81,
+      "history": 79,
+      "geography": 77
+    },
+    "total": 405
+  },
+  {
+    "student_id": "93",
+    "name": "Oscar Turner",
+    "marks": {
+      "math": 62,
+      "science": 68,
+      "english": 74,
+      "history": 80,
+      "geography": 86
+    },
+    "total": 370
+  },
+  {
+    "student_id": "94",
+    "name": "Paula Walker",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "95",
+    "name": "Quincy White",
+    "marks": {
+      "math": 92,
+      "science": 94,
+      "english": 96,
+      "history": 89,
+      "geography": 88
+    },
+    "total": 459
+  },
+  {
+    "student_id": "96",
+    "name": "Rachel Young",
+    "marks": {
+      "math": 60,
+      "science": 65,
+      "english": 70,
+      "history": 75,
+      "geography": 80
+    },
+    "total": 350
+  },
+  {
+    "student_id": "97",
+    "name": "Samuel Adams",
+    "marks": {
+      "math": 85,
+      "science": 88,
+      "english": 91,
+      "history": 84,
+      "geography": 87
+    },
+    "total": 435
+  },
+  {
+    "student_id": "98",
+    "name": "Tina Brown",
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 86,
+      "history": 90,
+      "geography": 88
+    },
+    "total": 424
+  },
+  {
+    "student_id": "99",
+    "name": "Uma Carter",
+    "marks": {
+      "math": 85,
+      "science": 83,
+      "english": 81,
+      "history": 79,
+      "geography": 77
+    },
+    "total": 405
+  },
+  {
+    "student_id": "100",
+    "name": "Victor Davis",
+    "marks": {
+      "math": 88,
+      "science": 90,
+      "english": 92,
+      "history": 94,
+      "geography": 96
+    },
+    "total": 460
+  }
+]
